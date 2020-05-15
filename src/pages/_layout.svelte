@@ -6,7 +6,9 @@
 </script>
 
 <div id="app" class="antialiased text-gray-800 bg-gray-800">
-  <header class="container mx-auto sm:flex sm:justify-between">
+  <header
+    class="container lg:max-w-screen-lg mx-auto sm:flex sm:justify-between"
+  >
     <!-- LOGO -->
     <div class="px-4 py-2 flex justify-between items-center font-bold text-2xl">
       <a href="/" aria-label="home" class="text-white">Upender Kalwa</a>
@@ -61,7 +63,7 @@
   </header>
 </div>
 
-<div class="container mx-auto">
+<div class="container lg:max-w-screen-lg mx-auto">
   <slot />
 </div>
 <footer></footer>

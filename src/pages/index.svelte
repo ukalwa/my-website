@@ -1,17 +1,14 @@
-<!-- <div id="app" class="antialiased text-gray-900">
-  <div class="bg-gray-200 min-h-screen">
-  
-  </div>
-</div> -->
+<script>
+  import About from "../components/About.svelte";
+  import Profile from "../components/Profile.svelte";
+</script>
+
 <section>
-  <div class="flex flex-col lg:flex-row px-8 py-2 items-center justify-center">
-    <div class="px-2">
-      <!-- IMAGE -->
-      IMAGE and HYPERLINKS
-    </div>
-    <div class="px-2">
-      <!-- ABOUT -->
-      ABOUT
-    </div>
+  <div
+    class="flex flex-col items-center lg:flex-row px-8 py-2 lg:items-start
+    justify-center"
+  >
+    <Profile />
+    <About />
   </div>
 </section>
