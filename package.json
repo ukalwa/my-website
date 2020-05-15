@@ -31,7 +31,9 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.13.0",
+    "@fullhuman/postcss-purgecss": "^2.2.0",
     "@sveltech/routify": "^1.5.9",
+    "autoprefixer": "^9.7.6",
     "svelte": "^3.20.1",
     "tailwindcss": "^1.4.6"
   }
