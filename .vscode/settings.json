@@ -1,0 +1,34 @@
+{
+  "[svelte]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true
+  },
+  "auto-close-tag.activationOnLanguage": [
+    "xml",
+    "php",
+    "blade",
+    "ejs",
+    "jinja",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "plaintext",
+    "markdown",
+    "vue",
+    "liquid",
+    "erb",
+    "lang-cfml",
+    "cfml",
+    "HTML (Eex)",
+    "svelte"
+  ],
+  "auto-rename-tag.activationOnLanguage": [
+    "html",
+    "xml",
+    "svelte",
+    "javascript"
+  ],
+  "tailwindCSS.emmetCompletions": true
+}
