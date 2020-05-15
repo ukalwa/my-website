@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "msjsdiag.debugger-for-chrome",
+    "coenraads.bracket-pair-colorizer-2",
+    "formulahendry.auto-complete-tag",
+    "joelday.docthis",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "svelte.svelte-vscode",
+    "ardenivanov.svelte-intellisense",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
