@@ -36,5 +36,8 @@
     "autoprefixer": "^9.7.6",
     "svelte": "^3.20.1",
     "tailwindcss": "^1.4.6"
+  },
+  "resolutions": {
+    "**/**/lodash": "^4.17.19"
   }
 }
